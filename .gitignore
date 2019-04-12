@@ -36,7 +36,10 @@ build/Release
 node_modules/
 jspm_packages/
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4b7e9c146782884e2f7287cd633b8c1c4322c447
 # TypeScript v1 declaration files
 typings/
 
